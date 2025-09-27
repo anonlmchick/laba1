@@ -25,7 +25,7 @@ public class laba_copy2 {
         double[] x = new double[20];
         Random random = new Random();
         for (int i = 0; i < 20; i++) {
-            x[i] = -3.0 + random.nextDouble() * 18.0;
+            x[i] = -3.0 + random.nextDouble() * 15.0;
         }
         double[][] w = new double[8][20];
         
